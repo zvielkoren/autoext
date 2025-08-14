@@ -54,10 +54,10 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-notify = "6"
-dialoguer = "0.11"
-anyhow = "1"
-colored = "2"
+dialoguer = "0.11.0"
+notify = "8.2.0"
+anyhow = "1.0.99"
+colored = "3.0.0"
 ```
 
 ---
