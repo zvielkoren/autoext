@@ -1,5 +1,13 @@
 # Auto Extension Switcher (Rust)
 
+>  [!NOTE]
+>
+> The current code in this repository is **AI-generated** and **not the original/real code**.  
+> As the developer, I plan to **remove this placeholder code** and **replace it with the real implementation** soon.
+
+
+
+
 ## Project Overview
 **Auto Extension Switcher** is a small Rust tool that automatically renames newly created files in a folder based on the user-selected file format.  
 This project helps practice Rust skills including filesystem monitoring, user input, error handling, and colored terminal output.
